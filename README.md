@@ -1,2 +1,2 @@
-# Webscraping-using-Beautifulsoup
-The repository contains a Python script for web scraping that leverages the BeautifulSoup and Requests (or Scrapy/Selenium where applicable) libraries for web scraping, scraping, and repurposing other data from websites. Overall, this script will be valuable for scraping data, automating collection and analyzing data that has been scraped.
+Web Scraping with Python Overview This repository contains a Python script for web scraping using the requests and BeautifulSoup libraries. The script allows you to extract data from websites, preprocess the data, and save the data to a structured format (e.g., CSV, JSON). This can be useful for automated data extraction and analysis. Features Extract data from web pages Parse HTML content with BeautifulSoup Save scraped data as a CSV or JSON Handle exceptions and errors in an efficient manner Technologies Used Python requests BeautifulSoup pandas (optional, for handling the data)
+
